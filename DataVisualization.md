@@ -1,6 +1,6 @@
 ## Data Visualization: A Practical Approach for Absolute Beginners
-
-#### Visualizations are Everywhere
+## Visual Literacy
+### Visualizations are Everywhere
 If you look around at any point during a normal day, you can see data visualizations all around you. 
 The battery indicator on a mobile phone is a great example. The spedometer in a car is another way to visualize the 
 speed of a vehical beyond just a numeric value.
@@ -32,3 +32,70 @@ make it delicious and exciting for yourself.
 And much like assembling a burger, what we'll find is these individual little points or these moments in time or
 these customers or these partners or these purchases, all these things come together into a single whole that excites end users,
 that makes it interesting and understandable by others.
+
+#### Visualizations are Delicious
+
+Visualizations can be about everything. And if you like to look at other luminaries in the field who have talked about this,
+we are going to put this in the notes after this video. You should check out the work by Edward Tufte, Hans Rosling, especially if you
+want to get excited about how to present data. Amanda Cox from the New York Times, Steven Few, Colin Ware, and others.
+And there's a whole plethora of people who are into this and who do it and who can help us along as we start to develop these skills.
+And as well, it's not just those people creating it, but it's also consuming it. Everybody consumes these data
+that we make, these data visualizations. And this is just an example from the world economic forum.
+So, they have created what are called knowledge graphs or network graphs to understand even just categorical data. So this is about innovation. All the different piece parts that relate to innovation. And it's exciting to me.
+Hopefully, it's exciting to you. And from here, we're going to start actually building and creating and practicing the art
+and science of data visualization.
+
+To get inspired about what's possible with Data Visualization, it's great to see examples - Power BI's Data Stories Gallery is an excellent place to start: https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery
+
+For further reading about luminaries in Visualization, explore the following:
+
+Edward Tufte - https://www.edwardtufte.com/tufte/
+Hans Rosling - https://en.wikipedia.org/wiki/Hans_Rosling
+Amanda Cox - https://www.nytimes.com/by/amanda-cox
+Stephen Few - http://perceptualedge.com/about.php
+Colin Ware - http://ccom.unh.edu/vislab/colin_ware.html
+There are also a variety of visualizations on interesting topics here: https://toplink.weforum.org/knowledge/explore
+
+### Visualizations Fundamentals
+Data Behind your Visuals
+
+Data - As the term implies, there is raw data behind the visualizations we're talking about here. Software interprets the data into the visualizations that we create. This can be small amounts of data, or massive Big Data systems. It can also come in many different formats. Let's begin with a simple explanation.
+
+#### Friendly Statistics
+Every living human has a beating heart. If you count your heart beats, you're collecting data by simply counting. That's referred to as your pulse. How many times does your heart beat in a minute? That's your BPM (Beats Per Minute). Over a period of time, like five minutes, or a half hour - you can take the BPM over the time period to find an average BPM per period.
+
+The math involved is fundamental, but the data and the visualizations that come from this simple math is transformative to how we can do something profound, like monitor patient health.
+
+#### Ingredients of a Chart
+
+1. Title - It's great to have a title. It's good to understand what this chart is about and give people that context.
+2. Data Series. You can't have a chart, a data visualization without data.
+3. Annotations are great. - Annotations can help you tell a story in that visualization itself. 
+4. Axes. - There's the X and Y axis, those axes are just where your data is plotted and labeled.
+5. Canvas - the space in which your data can reside.
+6. Labels - context of what is that axis.
+7. Legends. - They give you some more context. Without that, it would have been hard to understand that there were two people,
+perhaps, that you're charting with the heart rate.
+
+####  Visual Processing Stages
+
+Our brain does a lot of things without us knowing it, and until we take a top-down thinkers' approach to what's happening,
+we have sensory input that's coming at us. And in data visualizations, that's happening all the time.
+We have to make sure that we're using color properly, we're using motion, we're using labeling, and all that stuff,
+because when we're approached with a data visualization, it's easy for us to make some quick snap judgments
+without us even thinking about it. And in order to do that, we have to master these components of let's say form or color like we talked about.
+
+There's also position and motion in data, and all these things can come together to tell a story for your data visualization.
+And just being aware of the simple fact that there's stuff that happens in our brain even before us knowing it, gives us that impetus to put that little extra effort into the data visualization, into the chart, to make sure that this chart here tell us the story that we want it to, that we're not using a red bar chart to indicate perhaps something bad or a green bar chart to indicate that there is money behind it, but understanding that all of those stuff is important and we're going to start practicing and building the proper stuff that
+makes up these visualizations that are impactful and leveraging these things correctly as we go along.
+========================================================================================================================================
+## Visual Analysis
+### Visuals for comparing and Relating
+#### Comparing and Relating
+It's easy to think about different ways to comapre or relate different bits of data. It's one of the most immediate ways data visualizations can have impact. When you look at data visually, the comparisons leap out and become very obvious.
+
+#### Simple Comparisions
+
+
+
+
