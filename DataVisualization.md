@@ -83,11 +83,11 @@ Our brain does a lot of things without us knowing it, and until we take a top-do
 we have sensory input that's coming at us. And in data visualizations, that's happening all the time.
 We have to make sure that we're using color properly, we're using motion, we're using labeling, and all that stuff,
 because when we're approached with a data visualization, it's easy for us to make some quick snap judgments
-without us even thinking about it. And in order to do that, we have to master these components of let's say form or color like we talked about.
-
+without us even thinking about it. And in order to do that, we have to master these components of let's say form or color like we talked about. 
 There's also position and motion in data, and all these things can come together to tell a story for your data visualization.
 And just being aware of the simple fact that there's stuff that happens in our brain even before us knowing it, gives us that impetus to put that little extra effort into the data visualization, into the chart, to make sure that this chart here tell us the story that we want it to, that we're not using a red bar chart to indicate perhaps something bad or a green bar chart to indicate that there is money behind it, but understanding that all of those stuff is important and we're going to start practicing and building the proper stuff that
 makes up these visualizations that are impactful and leveraging these things correctly as we go along.
+
 ========================================================================================================================================
 ## Visual Analysis
 ### Visuals for comparing and Relating
