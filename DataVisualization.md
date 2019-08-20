@@ -101,7 +101,8 @@ There are three very simple charts to start with. Bar, Column and Pie charts. Th
 
 Remember that when using a pie chart, it's sometimes misleading because the filled in circle implies a total spend. So, while you can see values related to each other this way, there is implication that the sum of the parts equals some whole value, which isn't stated. If you hadn't seen the column or bar chart below, would you know how much was spent on these three items by looking at the pie chart?
 
-
+#### Comparisons Over Time
+start here
 
 
 
