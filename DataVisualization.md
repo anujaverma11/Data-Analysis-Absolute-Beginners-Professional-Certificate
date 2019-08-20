@@ -77,6 +77,8 @@ The math involved is fundamental, but the data and the visualizations that come 
 7. Legends. - They give you some more context. Without that, it would have been hard to understand that there were two people,
 perhaps, that you're charting with the heart rate.
 
+![](ChartElements.png) 
+
 ####  Visual Processing Stages
 
 Our brain does a lot of things without us knowing it, and until we take a top-down thinkers' approach to what's happening,
@@ -95,6 +97,10 @@ makes up these visualizations that are impactful and leveraging these things cor
 It's easy to think about different ways to comapre or relate different bits of data. It's one of the most immediate ways data visualizations can have impact. When you look at data visually, the comparisons leap out and become very obvious.
 
 #### Simple Comparisions
+There are three very simple charts to start with. Bar, Column and Pie charts. They are a quick easy way to show comparisons between data points. In these examples, you can see quickly which daily expense had the highest price. while these are quick and easy to produce, you should consider your users, and which might make the most sense.
+
+Remember that when using a pie chart, it's sometimes misleading because the filled in circle implies a total spend. So, while you can see values related to each other this way, there is implication that the sum of the parts equals some whole value, which isn't stated. If you hadn't seen the column or bar chart below, would you know how much was spent on these three items by looking at the pie chart?
+
 
 
 
