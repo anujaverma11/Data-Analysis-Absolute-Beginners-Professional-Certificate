@@ -183,4 +183,4 @@ prepare people to understand and
 listen to something similar to what I just described with
 a Pareto charts and you'll be good.
 
-
+Pareto charts are a pretty complex type of chart that includes a calculated line chart and bar chart. They are used to show important elements in your data at a glance. For more information about Pareto charts and Pareto analysis, click https://en.wikipedia.org/wiki/Pareto_chart
