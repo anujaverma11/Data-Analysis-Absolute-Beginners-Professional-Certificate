@@ -126,53 +126,8 @@ And so, it's really like trying to interpret and understand by turning data in d
 
 #### Visual Analysis with Calculations
 
-You're to have imagine
-a single bar or
-a column from a bar chart or a column chart,
-that was just kind of bent over.
-That's what you're seeing here is a bent bar perhaps,
-that is almost towards the target.
-And that's what we see with that black line there.
-And this is a gauge, or
-sometimes called like half of
-a donut chart or a gauge chart.
-And really, it's just measuring actuals against target,
-and you'll hear that often in business.
-And that's just to say you have a number and you want to
-see how it's related to something
-that you planned out in advance.
-And in this case, looks like we're almost
-meeting it, maybe that's 120.
-There's not enough context to tell the whole story here.
-But, in another example,
-we can show exactly this.
-So there's sales here on what's called an area chart.
-And an area chart is
-simply kind of like one of those line charts,
-but it has the color filled in,
-so it's just to show you the volume really of
-sales over time is
-useful with a lot of different data points.
-And in this case, it's showing
-you that, okay, in aggregate,
-there's $340 thousand-ish that were sold,
-but the red indicates that
-perhaps that's not quite to target.
-And you'll notice in the number below,
-it does say that the goal is about 20 percent
-more than where they're at today with sales.
-And it's another way to do it,
-so these are kind of both examples
-of calculating your targets,
-calculating data points and
-putting those into your visuals
-to make it that much more complex
-and useful for the purpose at hand,
-in which case this is probably using it to drive
-sales and to drive understanding
-of where they're at today,
-and what actions they need to take
-to meet those goals in the future.
+You're to have imagine a single bar or a column from a bar chart or a column chart, that was just kind of bent over. That's what you're seeing here is a bent bar perhaps, that is almost towards the target. And that's what we see with that black line there. And this is a gauge, or sometimes called like half of a donut chart or a gauge chart. And really, it's just measuring actuals against target, and you'll hear that often in business. And that's just to say you have a number and you want to see how it's related to something that you planned out in advance. And in this case, looks like we're almost meeting it, maybe that's 120. There's not enough context to tell the whole story here. But, in another example, we can show exactly this. So there's sales here on what's called an area chart. And an area chart is simply kind of like one of those line charts, but it has the color filled in, so it's just to show you the volume really of sales over time is useful with a lot of different data points. And in this case, it's showing you that, okay, in aggregate, there's $340 thousand-ish that were sold, but the red indicates that perhaps that's not quite to target. And you'll notice in the number below, it does say that the goal is about 20 percent more than where they're at today with sales. And it's another way to do it, so these are kind of both examples of calculating your targets, calculating data points and putting those into your visuals to make it that much more complex and useful for the purpose at hand, in which case this is probably using it to drive sales and to drive understanding of where they're at today, and what actions they need to take to meet those goals in the future.
+
 
 #### Complex Analysis
 
