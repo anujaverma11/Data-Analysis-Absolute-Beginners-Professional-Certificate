@@ -118,3 +118,8 @@ Bubble Charts - Simiar to scatter plots, bubbles use different size circles to i
 #### Interacting and Analyzing data
 #### Pivot Basics
 
+Beyond, comparisons with these visualizations, there's also the ability for people to interact with data sets.
+So you can poke at it, you can click on it, you can filter it, summarize it, aggregate it. And one of the primary ways that people do that, is through what are called Pivot Tables. And in this case we have household expenditures as the data set
+and what these pivot tables do is they take data and they kind of aggregate it up, summarize it according to
+those categories you see, those four there, and then allow you to sort of filter or interact with data in new ways.
+And so, it's really like trying to interpret and understand by turning data in different ways,summarizing it in a new way, turning it around, and trying to make sense of it, and really Pivot Tables are one of the best ways to do that.
