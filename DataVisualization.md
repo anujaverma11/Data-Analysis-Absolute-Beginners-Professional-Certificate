@@ -102,7 +102,19 @@ There are three very simple charts to start with. Bar, Column and Pie charts. Th
 Remember that when using a pie chart, it's sometimes misleading because the filled in circle implies a total spend. So, while you can see values related to each other this way, there is implication that the sum of the parts equals some whole value, which isn't stated. If you hadn't seen the column or bar chart below, would you know how much was spent on these three items by looking at the pie chart?
 
 #### Comparisons Over Time
-start here
 
+Time is one of the most important elements in analysis. Understanding where things have been, where things are going. And we've already seen a little bit of this with our heart rate chart right?
+That data set isn't just one single point in time. And it's a critical part of our analysis.
 
+#### Complex Comparison Types
+The graphical elements for complex chart types can get complicated to build, but can have tremendous value in simplifying how quickly you can see patterns and significant sections of data. For example, you may find data points well outside of normal ranges, or clusters of datapoints. There are a few useful visualizations that can help with this:
+
+Maps - using geographical maps is a good way to look at datapoints over geographies. For example, average temperatures by region or populations of various cities.
+Heatmaps - heatmaps let you look at a table of data with visualizations showing value relations right on top of the data itself. It's a quick way to see outlier data.
+Scatter Plots - Sometimes called a scattergraphy, these charts plot data points over two axis and use color coded points or dots to illustrate the data.
+Bubble Charts - Simiar to scatter plots, bubbles use different size circles to indicate relative size of the data points.
+
+### Visuals for Interacting and Analyzing
+#### Interacting and Analyzing data
+#### Pivot Basics
 
