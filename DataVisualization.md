@@ -123,3 +123,109 @@ So you can poke at it, you can click on it, you can filter it, summarize it, agg
 and what these pivot tables do is they take data and they kind of aggregate it up, summarize it according to
 those categories you see, those four there, and then allow you to sort of filter or interact with data in new ways.
 And so, it's really like trying to interpret and understand by turning data in different ways,summarizing it in a new way, turning it around, and trying to make sense of it, and really Pivot Tables are one of the best ways to do that.
+
+#### Visual Analysis with Calculations
+
+You're to have imagine
+a single bar or
+a column from a bar chart or a column chart,
+that was just kind of bent over.
+That's what you're seeing here is a bent bar perhaps,
+that is almost towards the target.
+And that's what we see with that black line there.
+And this is a gauge, or
+sometimes called like half of
+a donut chart or a gauge chart.
+And really, it's just measuring actuals against target,
+and you'll hear that often in business.
+And that's just to say you have a number and you want to
+see how it's related to something
+that you planned out in advance.
+And in this case, looks like we're almost
+meeting it, maybe that's 120.
+There's not enough context to tell the whole story here.
+But, in another example,
+we can show exactly this.
+So there's sales here on what's called an area chart.
+And an area chart is
+simply kind of like one of those line charts,
+but it has the color filled in,
+so it's just to show you the volume really of
+sales over time is
+useful with a lot of different data points.
+And in this case, it's showing
+you that, okay, in aggregate,
+there's $340 thousand-ish that were sold,
+but the red indicates that
+perhaps that's not quite to target.
+And you'll notice in the number below,
+it does say that the goal is about 20 percent
+more than where they're at today with sales.
+And it's another way to do it,
+so these are kind of both examples
+of calculating your targets,
+calculating data points and
+putting those into your visuals
+to make it that much more complex
+and useful for the purpose at hand,
+in which case this is probably using it to drive
+sales and to drive understanding
+of where they're at today,
+and what actions they need to take
+to meet those goals in the future.
+
+#### Complex Analysis
+
+When you're visualizing and analyzing data and you
+want to portray a really complex story,
+it can get pretty complex
+in terms of the visualizations you use.
+And you know, the temptation
+is to add everything into a chart to
+make it kind of stuffed with data and stuff with points.
+But if you're gonna to do that you have to
+prepare users and help
+them understand what they're looking at.
+And in this case, it would be hard to put this chart
+up and have somebody immediately
+interpret it, understand it.
+But in very specific scenarios
+where people have been trained to use this,
+what's called a Pareto chart.
+It makes much more sense.
+So, in Supply Chain Manufacturing,
+there's a lot of defect analysis that goes on.
+For example, and they look at what parts are kind of
+broken or what things are
+breaking in let's say like vehicle manufacturing.
+And what parts do we focus on
+to eliminate defects and have the biggest bang
+for a buck when it comes to fixing
+processes. And that's what these are used for.
+So, if you'll notice the big red column there,
+is really like where most of the defects are happening.
+And the line you see on top of that column,
+go to the top 200% is
+indicating that well most
+of the defects are coming from this one place.
+And as you go to 100% and understand this is
+a part the whole analysis kind of
+like a Pie chart, right?
+That you can only go up to 100%.
+As every other defect is added on,
+it increases that percentage only so much more.
+So, the point of Prios is to add a quick glance say,
+"Hey what should I focus on?
+What do I need to do?".
+Without that prior training on how to
+interpret these various items, it can be tough.
+So, just as as a word of advice.
+As we're doing these visualizations,
+keeping it simple isn't just for you,
+it isn't just for the clarity of message,
+it's so that you don't have to
+prepare people to understand and
+listen to something similar to what I just described with
+a Pareto charts and you'll be good.
+
+
