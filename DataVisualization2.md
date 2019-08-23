@@ -49,7 +49,7 @@ You can specify the ranges and which color indicators should be used in Microsof
 
 In this example, there is a KPI column showing business health at a glance - it's a visual indication for each row to see if the business is on target, or not.
 
-[](!KPI.png)
+![](KPI.png)
 
 
 
