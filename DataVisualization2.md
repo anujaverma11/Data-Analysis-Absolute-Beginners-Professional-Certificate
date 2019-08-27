@@ -1,6 +1,6 @@
 ### Visualization for Business
-### Business for Visualization
-#### Business Visualizations
+### Business Visualization
+
 Businesses live and breath by communicating data visualizations all the time. Here at Microsoft not a day goes by without various reports, scorecards, and charts flying through email and presentations to communicate business status and other information. In this lesson you'll start to see how to create these visualizations for business use.
 
 #### Overview of Business Visualizations
@@ -61,4 +61,41 @@ When you set out to build a dashboard, one of the problems that you could face i
 
 The idea is I love a dashboard to have a title. I think that's really important. 
 And also some other metadata, like when was it created? Or what version is this? And anything else, any other contextual things that you need to know in order for somebody to look at this and be like, "I know what this is talking about." So just take four different visualizations that are hopefully somewhat related and stick them in that canvas. Put some data around it. Good to go. Another example. Here's another nice 4-pack. Then, you could do what I call an 8-Pack, what I saw there before, when I asked you if it was a scorecard or a dashboard report. Just provide some context around that and then you'll be good to go as well, but I still prefer that 4-pack. 8-pack might give you more some raise statistics to the top and more at the bottom. And you can do many variations thereof. So, I'll give you one last one, and it's called the marquee. The idea is you have this hero graphic, this graphic at the center of things that you really want people to understand and interpret. And you have some supporting materials around it at the bottom. And this one is very common, I think you'll see it sometimes with maps and other things too. But marquee is a great place to start. So, these aren't the only variations. You'll see everything and anything out there in terms of formatting, so I think the first thing to do is just to start experimenting and if you get stuck, just choose one of these formats and roll with it.
+
+### Business context for Visualization
+Once you've learned how to create data visualizations that communicate the business point you're trying to communicate, there are a lot of ways this information can be shared to give context to the message in your visualization. In this lesson you'll see a few examples of setting that business context.
+
+#### Data Economics
+One of the most important things to
+know about building visualizations for business,
+is that it costs businesses money to make these things.
+So, they're not free, it costs your time.
+It costs compute time to run,
+and they have varying levels of cost when you make them.
+And these are for artifacts that you're familiar
+with and they have varying levels of cost.
+Of course this can change.
+Your analysis could get way
+in-depth and require you to do a lot of work,
+but really at the end of the day on average I'd say,
+dashboards are the most expensive artifact
+to create and create well.
+Then you have your scorecards. They're complex.
+They have intelligence built into them,
+but your basic analysis or
+analytic reports aren't going to cost as much.
+But in terms of demand, now demand can be different,
+because demand can depend a lot on the context of
+your new business and
+the maturity of your business thereof.
+So, your business may require you to make a lot
+of analysis and reports in the beginning,
+and as you get more mature and
+more complex in your business structure,
+more dashboards are going to be
+needed in order to run your business.
+So, it's important to keep in mind this
+cost structure and supply and
+demand in mind as you
+go about building visualizations for business.
 
