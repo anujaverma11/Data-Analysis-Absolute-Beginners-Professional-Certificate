@@ -52,4 +52,45 @@ In this example, there is a KPI column showing business health at a glance - it'
 ![](KPI.png)
 
 
+of transcript. Skip to the end.
+>> Moving from analysis, to reports,
+to a scorecards, maybe
+the most complex that we can build,
+the artifacts that we make for businesses are dashboards.
+This one stop shop like we mentioned.
+And then this is an industry analysis dashboard.
+And there's a whole lot going on,
+but you can imagine that, perhaps,
+somebody who's trying to do some competitive analysis,
+who has a responsibility in a business,
+already has some context in play.
+And this dashboard is made for her or him,
+and they would sit down and look at this and
+understand where things at in
+their business. Where are things going?
+Where are things wrong that I need to pay attention to
+or is everything okay and I can
+go back to my work at hand?
+And that's really the purpose of dashboards.
+And in this case,
+there's a whole lot going on in this one.
+There's over eight charts.
+And is it a scorecard?
+Is it a dashboard or a port?
+I think that in the end,
+the scorecards or reports can form part of a dashboard.
+And in this case, it's lacking something,
+perhaps, like a title and some more context.
+The lines can get blurry,
+but the idea is if you keep these kind of four things in
+your mind, you have analyses,
+you have reports, scorecards,
+and you have dashboards,
+you can at least distinguish
+what am I being asked to create?
+Is it something more like
+the dashboard I saw before or it's
+just for a specific person or is it for our business?
+Is it for a specific problem at hand?
+And having this framework will help you navigate those.
 
