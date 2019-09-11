@@ -99,3 +99,5 @@ cost structure and supply and
 demand in mind as you
 go about building visualizations for business.
 
+Data requests come from an environment of supply and demand - businesses need insights, and data developers and analysts create useful artifacts for this purpose. We'll extend this concept of data microeconomics into your lab for this module, as you'll be considering the demand-side in the creation of scorecard-like elements for a dashboard very soon.
+
