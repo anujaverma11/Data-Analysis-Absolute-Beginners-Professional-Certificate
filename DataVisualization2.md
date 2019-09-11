@@ -75,7 +75,7 @@ In business when your presenting visualizations, it's often in the context of an
 but really you're there to tell a story. 
 
 And the idea is not to just look and point at graphs and pick out specific data points, but give context. 
->> For example: So, begin with something like, on our big launch date, we really commanded most of the conversations on the internet
+> For example: So, begin with something like, on our big launch date, we really commanded most of the conversations on the internet
 around lemonade stands, around lemonade businesses. And let me give you an example of one particular comment that was really great. And zooming out from that, let's look at the comparisons between different channels and look at that and give ourselves a pat at the back for doing such a job well done. 
 
 So, in business this is definitely important. This is a skill that can be developed by everybody. Reference: If you'd like to learn more about storytelling in a business context, check out Ben Olsen's course on edx.org called Analytics Storytelling for Impact https://www.edx.org/course/analytics-storytelling-for-impact
@@ -93,6 +93,15 @@ It's important in business to know your audience. This is the first step in deci
 - Is your information confidential or business sensitive?
 - Are the people you're sharing the information with allowed to see the data?
 - Consider these questions carefuly before you distribute any visualizations, and check with your manager to see if they have any concerns about what you're building and how it's going to be shared.
+
+#### Visual Truth
+
+
+> Visualizations and business. Another thing to keep in mind is that sometimes things can get distorted in your visualization,
+not by your own doing perhaps, but it's important to understand that visualization needs to be presented accurately and truthfully in order to communicate out what you want to do, and in this case, this pie chart doesn't add up to 100 percent. It's not actually going to
+analyze the whole of the matter. If the pie chart adds up to more than 100 percent, you've got a problem fundamentally speaking.
+So, there's 92 percent versus the 18 percent. Really, the 92 percent isn't showing 92 percent of the pie as well. So, there's just problems all around with this pie chart and it can be easy to distort things if we don't take that extra second to pause and say, "Is this what I was trying to create and intend and communicate in this visualization?" Another quick example, and there's many different forms of distorting truth with visualizations. We'll touch on a few more in our notes.But in here, it's about truncating the axis.So in this case, we notice that it goesfrom just a couple ofnumbers difference between those charts,but the visual impact of having that tiny bar onthe lower end andthe higher bars at the higher end is pretty intense.So, a more accurate one would beto just make it start at zero,and understand that, okay,the difference between those three barsare not that intense.But in some cases,truncated axis do make sense likestock charts often portraythem in ways with how truncated,or with truncated axisand not to say that that's always right.In fact, I would love it if stock charts didn't, but it would make it hard to understandthe variations and the movements thereof.So, in this case, just try to avoidthose truncated axis as much as youcan as you're presenting your data, so you can tell a more truthful story.
+
 
 
 
