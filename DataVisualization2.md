@@ -81,36 +81,7 @@ around lemonade stands, around lemonade businesses. And let me give you an examp
 So, in business this is definitely important. This is a skill that can be developed by everybody. Reference: If you'd like to learn more about storytelling in a business context, check out Ben Olsen's course on edx.org called Analytics Storytelling for Impact https://www.edx.org/course/analytics-storytelling-for-impact
 
 #### Visual Distribution
->> And when you're building these visualizations
-and sharing them out in your business,
-it's not that they're just
-sort of hanging out on their own.
-They have their own context in which they were
-asked for, in which you present them in.
-And they can come in many different formats.
-So, perhaps your boss asked you for
-a report out and you said OK,
-well send it to me in email.
-And that's where oftentimes, you'll find like
-the requests you have come in for visualizations.
-And that's one of
-the primary ways that we go
-about distributing our visualizations.
-But another, of course, is portals or websites.
-And although, this is terrible perhaps it's
-AlligatorsandWineEnthusiasts.com.
-You're part of this alligators
-and wine enthusiasts business.
-And they want to go there and see how things are going or
-they want to go there to see
-the latest most exciting post.
-And websites in your business portals will
-often surface your visualizations for
-you and be the place that you need to distribute it.
-And lastly of course, we've already
-talked about presentations,
-but that is of course one of the places that you'll go
-to share out and communicate your visualizations.
+> And when you're building these visualizations and sharing them out in your business, it's not that they're just sort of hanging out on their own. They have their own context in which they were asked for, in which you present them in. And they can come in many different formats. So, perhaps your boss asked you for a report out and you said OK, well send it to me in email. And that's where oftentimes, you'll find like the requests you have come in for visualizations. And that's one of the primary ways that we go about distributing our visualizations. But another, of course, is portals or websites. And although, this is terrible perhaps it's AlligatorsandWineEnthusiasts.com. You're part of this alligators and wine enthusiasts business. And they want to go there and see how things are going or they want to go there to see the latest most exciting post. And websites in your business portals will often surface your visualizations for you and be the place that you need to distribute it. And lastly of course, we've already talked about presentations, but that is of course one of the places that you'll go to share out and communicate your visualizations.
 
 
 ##### Business Context
