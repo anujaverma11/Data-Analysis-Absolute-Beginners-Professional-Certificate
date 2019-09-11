@@ -66,38 +66,62 @@ And also some other metadata, like when was it created? Or what version is this?
 Once you've learned how to create data visualizations that communicate the business point you're trying to communicate, there are a lot of ways this information can be shared to give context to the message in your visualization. In this lesson you'll see a few examples of setting that business context.
 
 #### Data Economics
-One of the most important things to
-know about building visualizations for business,
-is that it costs businesses money to make these things.
-So, they're not free, it costs your time.
-It costs compute time to run,
-and they have varying levels of cost when you make them.
-And these are for artifacts that you're familiar
-with and they have varying levels of cost.
-Of course this can change.
-Your analysis could get way
-in-depth and require you to do a lot of work,
-but really at the end of the day on average I'd say,
-dashboards are the most expensive artifact
-to create and create well.
-Then you have your scorecards. They're complex.
-They have intelligence built into them,
-but your basic analysis or
-analytic reports aren't going to cost as much.
-But in terms of demand, now demand can be different,
-because demand can depend a lot on the context of
-your new business and
-the maturity of your business thereof.
-So, your business may require you to make a lot
-of analysis and reports in the beginning,
-and as you get more mature and
-more complex in your business structure,
-more dashboards are going to be
-needed in order to run your business.
-So, it's important to keep in mind this
-cost structure and supply and
-demand in mind as you
-go about building visualizations for business.
+One of the most important things to know about building visualizations for business, is that it costs businesses money to make these things. So, they're not free, it costs your time. It costs compute time to run, and they have varying levels of cost when you make them. And these are for artifacts that you're familiar with and they have varying levels of cost. Of course this can change. Your analysis could get way in-depth and require you to do a lot of work, but really at the end of the day on average I'd say, dashboards are the most expensive artifact to create and create well. Then you have your scorecards. They're complex. They have intelligence built into them, but your basic analysis or analytic reports aren't going to cost as much. But in terms of demand, now demand can be different, because demand can depend a lot on the context of your new business and the maturity of your business thereof. So, your business may require you to make a lot of analysis and reports in the beginning, and as you get more mature and more complex in your business structure, more dashboards are going to be needed in order to run your business. So, it's important to keep in mind this cost structure and supply and demand in mind as you go about building visualizations for business.
 
 Data requests come from an environment of supply and demand - businesses need insights, and data developers and analysts create useful artifacts for this purpose. We'll extend this concept of data microeconomics into your lab for this module, as you'll be considering the demand-side in the creation of scorecard-like elements for a dashboard very soon.
+
+#### Visual Storytelling
+In business when your presenting visualizations, it's often in the context of an actual presentation where you've put together maybe a slide or two about the data at hand. And you've spent some more kind of putting into this nice visual presentation and these artifacts,
+but really you're there to tell a story. 
+
+And the idea is not to just look and point at graphs and pick out specific data points, but give context. 
+>> For example: So, begin with something like, on our big launch date, we really commanded most of the conversations on the internet
+around lemonade stands, around lemonade businesses. And let me give you an example of one particular comment that was really great. And zooming out from that, let's look at the comparisons between different channels and look at that and give ourselves a pat at the back for doing such a job well done. 
+
+So, in business this is definitely important. This is a skill that can be developed by everybody. Reference: If you'd like to learn more about storytelling in a business context, check out Ben Olsen's course on edx.org called Analytics Storytelling for Impact https://www.edx.org/course/analytics-storytelling-for-impact
+
+#### Visual Distribution
+>> And when you're building these visualizations
+and sharing them out in your business,
+it's not that they're just
+sort of hanging out on their own.
+They have their own context in which they were
+asked for, in which you present them in.
+And they can come in many different formats.
+So, perhaps your boss asked you for
+a report out and you said OK,
+well send it to me in email.
+And that's where oftentimes, you'll find like
+the requests you have come in for visualizations.
+And that's one of
+the primary ways that we go
+about distributing our visualizations.
+But another, of course, is portals or websites.
+And although, this is terrible perhaps it's
+AlligatorsandWineEnthusiasts.com.
+You're part of this alligators
+and wine enthusiasts business.
+And they want to go there and see how things are going or
+they want to go there to see
+the latest most exciting post.
+And websites in your business portals will
+often surface your visualizations for
+you and be the place that you need to distribute it.
+And lastly of course, we've already
+talked about presentations,
+but that is of course one of the places that you'll go
+to share out and communicate your visualizations.
+
+
+##### Business Context
+It's important in business to know your audience. This is the first step in deciding how to frame your business visualizations. Here are a few things to consider:
+
+- Are you talking to a group where you can explain yourself?
+- Are you sending your visualizations around in email?
+- Are you sharing to a broad group, or just a couple of people?
+- Is your information confidential or business sensitive?
+- Are the people you're sharing the information with allowed to see the data?
+- Consider these questions carefuly before you distribute any visualizations, and check with your manager to see if they have any concerns about what you're building and how it's going to be shared.
+
+
 
