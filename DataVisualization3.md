@@ -18,49 +18,6 @@ And why you don't see them often in the world, they are very neat, they are a mo
 They're kind of crazy. And are a mix of treemap and all that's part of a whole analysis and calculations and I don't see them used very often. And they're much more useful when you unpack them into bar charts and column charts, and I'll provide a link to that
 in our notes here.
 ##### Sankey diagrams.
-They show throughput. So, the idea is you start with one state and then flow through to an end state. An example of that is perhaps like, sticking water down your faucet. So, if you took a big jug
-of water and just dumped it into the faucet,
-it would go through some pipes,
-then maybe go through some other pipes,
-and it would end up at some final state in
-maybe multiple locations or one, who knows?
-But the idea is that throughput will
-be potentially diagrammed or
-could be diagrammed on a sankey diagram.
-Because it has a beginning,
-and middle process, and an end process.
-And that's what they're useful for.
-And then another one I like is candlestick charts.
-So, what's cool about them is they
-have a lot packed into these little boxes here,
-with a kind of distributions at the end.
-And well will see the most often is in stock analysis.
-So, in stocks you have kind of when
-the stock price is opened and when it closed.
-And the bigger it is,
-means it has a higher kind of
-threshold of when it started and when it closed.
-The smaller it is, means that
-the distribution of the data is more tightly packed.
-So, there's a lot of information
-in these little candlesticks
-but they're a lot of fun.
-So they can be useful in specific contexts.
-Then lastly, we have our funnel charts.
-So, funnel charts are like bar charts.
-But the idea is that there is some kind of
-fallout at each stage of the funnel chart.
-So you start out with a certain population and
-this kind of instance is about sales.
-Right? So, the idea is
-you proposed a bunch of sales things
-to your audience and
-you only end up closing a number of them.
-So, these various sales stages there is fallout.
-Like a person and click on your advertisement,
-person into followup with your phone call.
-But finally, the number that you
-actually did close from the people that you reached out,
-is the end state of that funnel chart.
+They show throughput. So, the idea is you start with one state and then flow through to an end state. An example of that is perhaps like, sticking water down your faucet. So, if you took a big jug of water and just dumped it into the faucet, it would go through some pipes, then maybe go through some other pipes, and it would end up at some final state in maybe multiple locations or one, who knows? But the idea is that throughput will be potentially diagrammed or could be diagrammed on a sankey diagram. Because it has a beginning, and middle process, and an end process. And that's what they're useful for. And then another one I like is candlestick charts. So, what's cool about them is they have a lot packed into these little boxes here, with a kind of distributions at the end. And well will see the most often is in stock analysis. So, in stocks you have kind of when the stock price is opened and when it closed. And the bigger it is, means it has a higher kind of threshold of when it started and when it closed. The smaller it is, means that the distribution of the data is more tightly packed. So, there's a lot of information in these little candlesticks but they're a lot of fun. So they can be useful in specific contexts. Then lastly, we have our funnel charts. So, funnel charts are like bar charts. But the idea is that there is some kind of fallout at each stage of the funnel chart. So you start out with a certain population and this kind of instance is about sales. Right? So, the idea is you proposed a bunch of sales things to your audience and you only end up closing a number of them. So, these various sales stages there is fallout. Like a person and click on your advertisement, person into followup with your phone call. But finally, the number that you actually did close from the people that you reached out, is the end state of that funnel chart.
 
 #### Big Data and Real Time Data
