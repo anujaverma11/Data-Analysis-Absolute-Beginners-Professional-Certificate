@@ -24,24 +24,5 @@ statistics. You'll also be introduced to the basics of forecasting in Excel for 
 complete two Challenge Labs.
 
 
-Introduction
-There are two main goals for this course. Now, in many ways data analysis and statistics can be taught in sort of a cookie cutter 
-fashion, where you don't really understand what you're doing, you just do it You just kinda plug and play some things together. 
-You don't really know what's going on. That is not my goal for you in this course. I am hoping that you will come out of this course with some actual understanding, not just how to do things, but what they mean and why, so you begin to build
-that reasoning and that skill set
-that you could apply in many contexts.
-But in addition to that, I also want you
-to be able to use it.
-I want you to be able to use some basic statistical tools,
-I want you to be able to implement those in a program
-like Excel, so that you can actually do
-the nuts and bolts of data analysis.
-And then, of course, this will give you a foundation
-not only for doing statistics and data work,
-but also give you a base to build on so that you can
-take other courses and build your skills further.
-So this is what we're going to do in this course.
-We're going to learn some basics of data analysis,
-you're going to learn how to use it,
-and you're going to be able to have a foundation
-to learn more, so I hope you're excited, as I am.
+### Introduction
+There are two main goals for this course. Now, in many ways data analysis and statistics can be taught in sort of a cookie cutter fashion, where you don't really understand what you're doing, you just do it You just kinda plug and play some things together. You don't really know what's going on. That is not my goal for you in this course. I am hoping that you will come out of this course with some actual understanding, not just how to do things, but what they mean and why, so you begin to build that reasoning and that skill set that you could apply in many contexts. But in addition to that, I also want you to be able to use it. I want you to be able to use some basic statistical tools, I want you to be able to implement those in a program like Excel, so that you can actually do the nuts and bolts of data analysis. And then, of course, this will give you a foundation not only for doing statistics and data work, but also give you a base to build on so that you can take other courses and build your skills further. So this is what we're going to do in this course. We're going to learn some basics of data analysis, you're going to learn how to use it, and you're going to be able to have a foundation to learn more, so I hope you're excited, as I am.
