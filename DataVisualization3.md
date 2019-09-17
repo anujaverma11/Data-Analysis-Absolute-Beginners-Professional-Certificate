@@ -38,3 +38,19 @@ Then lastly, we have our funnel charts. So, funnel charts are like bar charts. B
 You've probably heard the term big data, or advanced analytics, or data science and all that. And I'm not here to tell you that's
 not hard to do or it's complicated, but at the end of the day, big data visualization and big data analysis often looks like things you've seen. So what's cool here is, how we talked about that eight pack visualization. Well take it and flip it outside and you'll
 see that here we have some time series, we have four of them and those end up in aggregated measures on the right. So, if you can imagine every 10 seconds this data being refreshed. It would have different data points and values. But it's an IoT scenario. So, the idea is that there's these lots these little sensors all over let's say the world, collecting gillions of amounts of data and then shoving it into this chart.That's the magic of visualization is, it takes things that can be complex or voluminous and sticks them into this nice package. So, this is a nice eight pack big data visualization that you'll see. That's not to say that it can't get complicated. So, if we look at more advanced versions of visualizations for big data or machine learning and all that, you might have to learn a few more things. But still it's kind of on these X and Y axes as you can see. What if analyses really take a kind of one step further, but still end up being charted. So, the great thing here is that the tools you're learning in this more intro level course, will be applicable all the way up through big data and machine learning and beyond.
+
+###   The Future is Yours
+Where we go from here with visualiaztions is super exciting and unknown. In a world of mixed reality, virtual reality, 3D modelling and artificial intelligence we are poised to see new and interesting immersive visualizations in ways we can barely imagine. We'll take a brief look at where this is headed in this lesson.
+
+### Advanced Visualizations
+When we think about the future of data visualization, it's easy to imagine that things will look a lot different than they are today.
+So we'll say, I couldn't even imagine what the future will look like. The fact is, data visualization that I'm seeing that's cutting edge, that's bleeding edge in things like AR, and VR, and ML, actually end up looking a lot like what we've seen. It's just fun, right?
+
+So we have these gauge charts. This is all Power BI and these AR, VR modules, and super cool, right?
+But the idea is, it's not too much different from what you've seen already. So, the reality is future of visualization.
+There might be new chart types, there might be new animations or interactivity that could be involved in things to be more responsive.
+But these fundamentals remain the same. And so, that's sort of where I'll leave you with this.
+
+### AI and Visualizations
+When it comes to artificial intelligence and visualizations, what we're seeing is that artificial intelligence can assist us and augment our ability to do data analysis. But the output, again, is something that we're kind of familiar with. If you see here we have scatter plots, we have other types of visualizations that we're used to. Then maybe some text, that's given to us in form of analysis. So, while things might become more automated or things might become easier perhaps, to tease out insights from data. There's still always that human interaction and the need to understand both what we're doing or what we're seeing. As we've learned, from this course, how to interpret data visualizations properly. And then to make our own conclusions. So, the human element will always remain.
+
